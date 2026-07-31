@@ -1,6 +1,6 @@
 <h1 align="center">안녕하세요👋</h1>
 
-
+<div align="center">
 ### I'm studying:
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -13,7 +13,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
+</div>
 
 ### 📊 GitHub 통계
 <p align="center">
