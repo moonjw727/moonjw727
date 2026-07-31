@@ -8,23 +8,6 @@
 
 ---
 
-### 🚀 진행 중 / 완료한 프로젝트
-
-**🎵 [Memory-Tune](https://memory-tune.vercel.app)**
-노래와 개인적인 추억을 연결해주는 웹 앱 (팀 프로젝트)
-`React` · `Node.js/Express` · `Spotify Web API` · `Claude API` · `Supabase`
-
-**⚔️ LimbusBettle**
-Unity로 게임 '림버스 컴퍼니'의 전투 시스템을 재현하는 팬 프로젝트
-클래시(Clash) 판정, 상태이상 시스템, PV 모드 연출까지 구현 중
-`Unity` · `C#`
-
-**🎮 PINKY Handheld**
-ESP32 기반 DIY 미니 휴대용 게임기 프로젝트 (Retro-Go 기반)
-`ESP32` · `Retro-Go`
-
----
-
 ### 📊 GitHub 통계
 
 <p align="center">
