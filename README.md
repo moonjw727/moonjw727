@@ -1,4 +1,16 @@
-<h1 align="center">안녕하세요👋</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Moonjw727+%F0%9F%91%8B;GOOD👍)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/moonjw727/moonjw727/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 
 <div align="center">
   
@@ -26,5 +38,6 @@
 ### 📫 연락처
 
 Email:moonjw727@gmail.com
+
 
 
