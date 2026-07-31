@@ -1,9 +1,6 @@
-<h1 align="center">안녕하세요, 정우입니다 👋</h1>
+<h1 align="center">안녕하세요👋</h1>
 
-<p align="center">
-  성공회대학교에서 컴퓨터공학을 공부하고 있는 학생 개발자입니다.<br/>
-  프론트엔드를 중심으로, 아이디어를 실제로 동작하는 것으로 만드는 걸 좋아합니다.
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,react,js,nodejs,unity,cs" />
