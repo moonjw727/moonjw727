@@ -13,7 +13,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
+
 
 ### 📊 GitHub 통계
 <p align="center">
@@ -25,4 +25,4 @@
 ### 📫 연락처
 
 - Email:moonjw727@gmail.com
-
+</div>
