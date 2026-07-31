@@ -32,9 +32,8 @@
 <p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID" />
 </p>
+<div align="center">
+  
+![footer11](https://capsule-render.vercel.app/api?type=checkered&color=0:6366f1,100:312e81&height=150&section=footer)
 
----
-
-
-
-
+</div>
