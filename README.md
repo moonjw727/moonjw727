@@ -35,9 +35,6 @@
 
 ---
 
-### 📫 연락처
-
-Email:moonjw727@gmail.com
 
 
 
