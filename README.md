@@ -13,12 +13,14 @@
 ---
 
 <div align="center">
+
   
 ### 배우는 거
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ### 쓰는 거
 
@@ -28,10 +30,13 @@
 
 ---
 
+<br/>
 ### 📊 GitHub 통계
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID" />
-</p>
+<div align="center">
+<img height="165" src="https://streak-stats.demolab.com?user=moonjw727&theme=tokyonight" />
+</div>
+
+<br/>
 <div align="center">
   
 ![footer11](https://capsule-render.vercel.app/api?type=checkered&color=0:6366f1,100:312e81&height=150&section=footer)
